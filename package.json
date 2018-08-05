@@ -2,9 +2,9 @@
   "name": "bytetech",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "3play.js",
+  "main": "4play.js",
   "scripts": {
-    "start": "node 3play.js"
+    "start": "node 4play.js"
   },
   "dependencies": {
     "ascii-data-table": "^2.1.1",
